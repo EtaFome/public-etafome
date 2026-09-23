@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="EtaFome" width="120" />
+<img src="assets/logo.png" alt="Muita Fome" width="120" />
 
-# EtaFome
+# Muita Fome
 
 **Peça comida de restaurantes e lanchonetes perto de você — e gerencie seu estabelecimento em tempo real.**
 
@@ -18,9 +18,9 @@
 
 ---
 
-## O que é o EtaFome
+## O que é o Muita Fome
 
-EtaFome é uma plataforma de pedidos de comida no modelo **marketplace** — como o iFood —
+Muita Fome é uma plataforma de pedidos de comida no modelo **marketplace** — como o iFood —
 conectando **clientes** que querem pedir comida a **restaurantes, lanchonetes e outros
 estabelecimentos** que gerenciam seu cardápio, pedidos e fila de preparo em tempo real.
 

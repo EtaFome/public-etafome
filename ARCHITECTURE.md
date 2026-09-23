@@ -1,4 +1,4 @@
-# EtaFome — Arquitetura
+# Muita Fome — Arquitetura
 
 Plataforma de pedidos para restaurantes/lanchonetes (modelo marketplace), com dois apps
 de cliente final e um backend compartilhado.
